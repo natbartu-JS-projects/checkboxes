@@ -2,7 +2,6 @@
 
 * {
   box-sizing: border-box;
-  /* border: solid #5B6DCD 1px; */
 }
 
 body {
@@ -15,4 +14,11 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+.toggle-container {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  width: 200px;
 }
